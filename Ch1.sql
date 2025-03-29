@@ -11,3 +11,5 @@ Highly Reliable
 
 CHAPTER 2
 Uses of SQLite
+
+.select
