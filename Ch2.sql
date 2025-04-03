@@ -6,16 +6,11 @@ Getting Started
 Where to Get SQLite
 SQLite on Windows
 Getting the Command-Line Program
-Getting the SQLite DLL
-Compiling the SQLite Source Code on Windows
-The Stable Source Distribution
-Anonymous Fossil Source Control
-Building the SQLite DLL with Microsoft Visual C++
-Building a Dynamically Linked SQLite Client with Visual C++
-Building SQLite with MinGW
-SQLite on Linux, Mac OS X, and Other POSIX Systems
-Binaries and Packages
-Compiling SQLite from Source
+  
+...
+-- I skipped these because they are for program developers...
+...  
+  
 The Command-Line Program
 The CLP in Shell Mode
 The CLP in Command-Line Mode
